@@ -1,6 +1,11 @@
 # **SORTINGSTSTEM**
 
-## This is the main code of this project
+* Four targets
+* Random item targets
+* Item will not collide with each other
+* Show the count of item
+
+## Main code of this project
 *iTEM.cs
 ```
 using UnityEngine;
